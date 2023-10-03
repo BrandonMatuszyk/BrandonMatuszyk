@@ -1,4 +1,4 @@
-Certainly! Here's an updated version of your GitHub profile bio that includes your passion for the Green Bay Packers:
+
 
 👋 Hey there!
 
