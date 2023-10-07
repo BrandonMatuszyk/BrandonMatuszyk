@@ -2,7 +2,7 @@
 
 👋 Hey there!
 
-🚀 Let me introduce myself: I'm Brandon Matuszyk, a passionate Full Stack Engineer Developer, and my specialty is crafting awesome React Applications. My journey into the world of coding began as a self-taught developer, and I fine-tuned my skills further by attending the Sabio Coding Bootcamp. I've had hands-on experience with a diverse tech stack, including ReactJs, Axios, JavaScript, JQuery, HTML, CSS, Bootstrap, Formik, C#, .NET, SQL, and RESTful APIs.
+🚀 Let me introduce myself! I'm Brandon Matuszyk, a passionate Full Stack Engineer Developer, and my specialty is crafting awesome React Applications. My journey into the world of coding began as a self-taught developer, and I fine-tuned my skills further by attending the Sabio Coding Bootcamp. I've had hands-on experience with a diverse tech stack, including ReactJs, Axios, JavaScript, JQuery, HTML, CSS, Bootstrap, Formik, C#, .NET, SQL, and RESTful APIs.
 
 👨‍💻 I'm genuinely enthusiastic about exploring new technologies. It all started in 2020 when I delved into the foundations of JavaScript, and I've been on an exciting learning journey ever since.
 
